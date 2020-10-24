@@ -2,7 +2,7 @@
 ## Readability 
 From Sorawichaya Readability code : https://github.com/b6210545602/PA4
 ### Attribute type 
-In the src/readability/strategy/ReadStrategy.java class
+In the `src/readability/strategy/ReadStrategy.java` class
 https://github.com/b6210545602/PA4/blob/master/src/readability/strategy/ReadStrategy.java
 ``` java
 public class ReadStrategy {
@@ -79,7 +79,8 @@ public class ReadStrategy {
 ```
 
 ### countSentence(String line) method
-In the src/readability/strategy/Counter.java class
+In the `src/readability/strategy/Counter.java` class
+
 https://github.com/b6210545602/PA4/blob/master/src/readability/strategy/Counter.java
 ``` java
  public int countSentence(String line) {
@@ -112,7 +113,7 @@ https://github.com/b6210545602/PA4/blob/master/src/readability/strategy/Counter.
                 sentenceGroups++;
  ```
 ### Extract method and move method
-In the src/readability/strategy/ReadStrategy.java class
+In the `src/readability/strategy/ReadStrategy.java` class
 https://github.com/b6210545602/PA4/blob/master/src/readability/strategy/ReadStrategy.java
 ```java
     /**
